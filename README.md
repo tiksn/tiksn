@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![Tigran TIKSN Torosyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiksn&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/tiksn)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiksn)](https://github.com/tiksn)
